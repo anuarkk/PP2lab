@@ -1,0 +1,7 @@
+C:\Users\a_kuanyshuly\Desktop\proj\Circle\Circle\obj\Debug\Circle.csprojResolveAssemblyReference.cache
+C:\Users\a_kuanyshuly\Desktop\proj\Circle\Circle\obj\Debug\Circle.csproj.CoreCompileInputs.cache
+C:\Users\a_kuanyshuly\Desktop\proj\Circle\Circle\bin\Debug\Circle.exe.config
+C:\Users\a_kuanyshuly\Desktop\proj\Circle\Circle\bin\Debug\Circle.exe
+C:\Users\a_kuanyshuly\Desktop\proj\Circle\Circle\bin\Debug\Circle.pdb
+C:\Users\a_kuanyshuly\Desktop\proj\Circle\Circle\obj\Debug\Circle.exe
+C:\Users\a_kuanyshuly\Desktop\proj\Circle\Circle\obj\Debug\Circle.pdb
