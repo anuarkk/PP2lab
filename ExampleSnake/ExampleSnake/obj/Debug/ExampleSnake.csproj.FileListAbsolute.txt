@@ -1,0 +1,7 @@
+C:\Users\a_kuanyshuly\source\repos\ExampleSnake\ExampleSnake\bin\Debug\ExampleSnake.exe.config
+C:\Users\a_kuanyshuly\source\repos\ExampleSnake\ExampleSnake\bin\Debug\ExampleSnake.exe
+C:\Users\a_kuanyshuly\source\repos\ExampleSnake\ExampleSnake\bin\Debug\ExampleSnake.pdb
+C:\Users\a_kuanyshuly\source\repos\ExampleSnake\ExampleSnake\obj\Debug\ExampleSnake.csprojResolveAssemblyReference.cache
+C:\Users\a_kuanyshuly\source\repos\ExampleSnake\ExampleSnake\obj\Debug\ExampleSnake.csproj.CoreCompileInputs.cache
+C:\Users\a_kuanyshuly\source\repos\ExampleSnake\ExampleSnake\obj\Debug\ExampleSnake.exe
+C:\Users\a_kuanyshuly\source\repos\ExampleSnake\ExampleSnake\obj\Debug\ExampleSnake.pdb
