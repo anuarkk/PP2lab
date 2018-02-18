@@ -1,0 +1,7 @@
+C:\Users\a_kuanyshuly\source\repos\ExampleStudent\ExampleStudent\obj\Debug\ExampleStudent.csprojResolveAssemblyReference.cache
+C:\Users\a_kuanyshuly\source\repos\ExampleStudent\ExampleStudent\obj\Debug\ExampleStudent.csproj.CoreCompileInputs.cache
+C:\Users\a_kuanyshuly\source\repos\ExampleStudent\ExampleStudent\bin\Debug\ExampleStudent.exe.config
+C:\Users\a_kuanyshuly\source\repos\ExampleStudent\ExampleStudent\bin\Debug\ExampleStudent.exe
+C:\Users\a_kuanyshuly\source\repos\ExampleStudent\ExampleStudent\bin\Debug\ExampleStudent.pdb
+C:\Users\a_kuanyshuly\source\repos\ExampleStudent\ExampleStudent\obj\Debug\ExampleStudent.exe
+C:\Users\a_kuanyshuly\source\repos\ExampleStudent\ExampleStudent\obj\Debug\ExampleStudent.pdb
