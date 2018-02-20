@@ -8,10 +8,10 @@ namespace ExampleCircle
 {
     class Rectangle
     {
-        private int perimeter;
-        private int area;
-        private int a;
-        private int b;
+        public int perimeter;
+        public int area;
+        public int a;
+        public int b;
 
         public Rectangle(int a, int b)
         {
@@ -33,7 +33,7 @@ namespace ExampleCircle
         }
         public override string ToString()
         {
-            return "Perimeter= " + perimeter + "\nArea= " + area; 
+            return "Perimeter = " + perimeter + "\nArea = " + area; 
         }
     }
 }

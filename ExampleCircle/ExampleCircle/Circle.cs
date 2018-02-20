@@ -39,7 +39,7 @@ namespace ExampleCircle
         }
         public override string ToString()
         {
-            return "Area of Circle= " + area + "\nDiameter of Circle= " + diameter + "\nCircumference of Circle= " + circumference;
+            return "\nArea of Circle = " + area + "\nDiameter of Circle = " + diameter + "\nCircumference of Circle = " + circumference;
         }
     }
 }

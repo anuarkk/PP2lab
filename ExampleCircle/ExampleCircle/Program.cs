@@ -12,7 +12,7 @@ namespace ExampleCircle
         {
 
 
-            Console.WriteLine("radius for Circle: ");
+            Console.WriteLine("Write the radius for Circle: ");
             int radius = int.Parse(Console.ReadLine());
 
             Console.WriteLine("n's for Rectangle: ");

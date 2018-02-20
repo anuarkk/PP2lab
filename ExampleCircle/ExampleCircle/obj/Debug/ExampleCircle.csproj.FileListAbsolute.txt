@@ -5,3 +5,10 @@ C:\Users\a_kuanyshuly\source\repos\ExampleCircle\ExampleCircle\obj\Debug\Example
 C:\Users\a_kuanyshuly\source\repos\ExampleCircle\ExampleCircle\obj\Debug\ExampleCircle.exe
 C:\Users\a_kuanyshuly\source\repos\ExampleCircle\ExampleCircle\obj\Debug\ExampleCircle.pdb
 C:\Users\a_kuanyshuly\source\repos\ExampleCircle\ExampleCircle\obj\Debug\ExampleCircle.csprojResolveAssemblyReference.cache
+C:\Users\a_kuanyshuly\Desktop\pp2lab\ExampleCircle\ExampleCircle\bin\Debug\ExampleCircle.exe.config
+C:\Users\a_kuanyshuly\Desktop\pp2lab\ExampleCircle\ExampleCircle\bin\Debug\ExampleCircle.exe
+C:\Users\a_kuanyshuly\Desktop\pp2lab\ExampleCircle\ExampleCircle\bin\Debug\ExampleCircle.pdb
+C:\Users\a_kuanyshuly\Desktop\pp2lab\ExampleCircle\ExampleCircle\obj\Debug\ExampleCircle.csprojResolveAssemblyReference.cache
+C:\Users\a_kuanyshuly\Desktop\pp2lab\ExampleCircle\ExampleCircle\obj\Debug\ExampleCircle.csproj.CoreCompileInputs.cache
+C:\Users\a_kuanyshuly\Desktop\pp2lab\ExampleCircle\ExampleCircle\obj\Debug\ExampleCircle.exe
+C:\Users\a_kuanyshuly\Desktop\pp2lab\ExampleCircle\ExampleCircle\obj\Debug\ExampleCircle.pdb
