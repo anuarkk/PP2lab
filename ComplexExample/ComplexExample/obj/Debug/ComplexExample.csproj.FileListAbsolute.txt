@@ -1,0 +1,7 @@
+C:\Users\a_kuanyshuly\source\repos\ComplexExample\ComplexExample\bin\Debug\ComplexExample.exe.config
+C:\Users\a_kuanyshuly\source\repos\ComplexExample\ComplexExample\bin\Debug\ComplexExample.exe
+C:\Users\a_kuanyshuly\source\repos\ComplexExample\ComplexExample\bin\Debug\ComplexExample.pdb
+C:\Users\a_kuanyshuly\source\repos\ComplexExample\ComplexExample\obj\Debug\ComplexExample.csprojResolveAssemblyReference.cache
+C:\Users\a_kuanyshuly\source\repos\ComplexExample\ComplexExample\obj\Debug\ComplexExample.csproj.CoreCompileInputs.cache
+C:\Users\a_kuanyshuly\source\repos\ComplexExample\ComplexExample\obj\Debug\ComplexExample.exe
+C:\Users\a_kuanyshuly\source\repos\ComplexExample\ComplexExample\obj\Debug\ComplexExample.pdb

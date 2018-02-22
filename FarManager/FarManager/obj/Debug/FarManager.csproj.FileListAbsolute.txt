@@ -1,0 +1,7 @@
+C:\Users\a_kuanyshuly\source\repos\FarManager\FarManager\obj\Debug\FarManager.csprojResolveAssemblyReference.cache
+C:\Users\a_kuanyshuly\source\repos\FarManager\FarManager\obj\Debug\FarManager.csproj.CoreCompileInputs.cache
+C:\Users\a_kuanyshuly\source\repos\FarManager\FarManager\bin\Debug\FarManager.exe.config
+C:\Users\a_kuanyshuly\source\repos\FarManager\FarManager\bin\Debug\FarManager.exe
+C:\Users\a_kuanyshuly\source\repos\FarManager\FarManager\bin\Debug\FarManager.pdb
+C:\Users\a_kuanyshuly\source\repos\FarManager\FarManager\obj\Debug\FarManager.exe
+C:\Users\a_kuanyshuly\source\repos\FarManager\FarManager\obj\Debug\FarManager.pdb

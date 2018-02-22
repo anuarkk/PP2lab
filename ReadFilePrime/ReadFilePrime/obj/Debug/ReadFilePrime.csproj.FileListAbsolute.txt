@@ -1,0 +1,14 @@
+C:\Users\a_kuanyshuly\source\repos\ReadFilePrime\ReadFilePrime\bin\Debug\ReadFilePrime.exe.config
+C:\Users\a_kuanyshuly\source\repos\ReadFilePrime\ReadFilePrime\bin\Debug\ReadFilePrime.exe
+C:\Users\a_kuanyshuly\source\repos\ReadFilePrime\ReadFilePrime\bin\Debug\ReadFilePrime.pdb
+C:\Users\a_kuanyshuly\source\repos\ReadFilePrime\ReadFilePrime\obj\Debug\ReadFilePrime.csproj.CoreCompileInputs.cache
+C:\Users\a_kuanyshuly\source\repos\ReadFilePrime\ReadFilePrime\obj\Debug\ReadFilePrime.exe
+C:\Users\a_kuanyshuly\source\repos\ReadFilePrime\ReadFilePrime\obj\Debug\ReadFilePrime.pdb
+C:\Users\a_kuanyshuly\source\repos\ReadFilePrime\ReadFilePrime\obj\Debug\ReadFilePrime.csprojResolveAssemblyReference.cache
+C:\Users\a_kuanyshuly\Desktop\pp2lab\ReadFilePrime\ReadFilePrime\bin\Debug\ReadFilePrime.exe.config
+C:\Users\a_kuanyshuly\Desktop\pp2lab\ReadFilePrime\ReadFilePrime\bin\Debug\ReadFilePrime.exe
+C:\Users\a_kuanyshuly\Desktop\pp2lab\ReadFilePrime\ReadFilePrime\bin\Debug\ReadFilePrime.pdb
+C:\Users\a_kuanyshuly\Desktop\pp2lab\ReadFilePrime\ReadFilePrime\obj\Debug\ReadFilePrime.csprojResolveAssemblyReference.cache
+C:\Users\a_kuanyshuly\Desktop\pp2lab\ReadFilePrime\ReadFilePrime\obj\Debug\ReadFilePrime.csproj.CoreCompileInputs.cache
+C:\Users\a_kuanyshuly\Desktop\pp2lab\ReadFilePrime\ReadFilePrime\obj\Debug\ReadFilePrime.exe
+C:\Users\a_kuanyshuly\Desktop\pp2lab\ReadFilePrime\ReadFilePrime\obj\Debug\ReadFilePrime.pdb

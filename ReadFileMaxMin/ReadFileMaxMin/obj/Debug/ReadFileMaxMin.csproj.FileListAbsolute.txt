@@ -1,0 +1,14 @@
+C:\Users\a_kuanyshuly\source\repos\ReadFileMaxMin\ReadFileMaxMin\obj\Debug\ReadFileMaxMin.csprojResolveAssemblyReference.cache
+C:\Users\a_kuanyshuly\source\repos\ReadFileMaxMin\ReadFileMaxMin\obj\Debug\ReadFileMaxMin.csproj.CoreCompileInputs.cache
+C:\Users\a_kuanyshuly\source\repos\ReadFileMaxMin\ReadFileMaxMin\bin\Debug\ReadFileMaxMin.exe.config
+C:\Users\a_kuanyshuly\source\repos\ReadFileMaxMin\ReadFileMaxMin\bin\Debug\ReadFileMaxMin.exe
+C:\Users\a_kuanyshuly\source\repos\ReadFileMaxMin\ReadFileMaxMin\bin\Debug\ReadFileMaxMin.pdb
+C:\Users\a_kuanyshuly\source\repos\ReadFileMaxMin\ReadFileMaxMin\obj\Debug\ReadFileMaxMin.exe
+C:\Users\a_kuanyshuly\source\repos\ReadFileMaxMin\ReadFileMaxMin\obj\Debug\ReadFileMaxMin.pdb
+C:\Users\a_kuanyshuly\Desktop\pp2lab\ReadFileMaxMin\ReadFileMaxMin\bin\Debug\ReadFileMaxMin.exe.config
+C:\Users\a_kuanyshuly\Desktop\pp2lab\ReadFileMaxMin\ReadFileMaxMin\bin\Debug\ReadFileMaxMin.exe
+C:\Users\a_kuanyshuly\Desktop\pp2lab\ReadFileMaxMin\ReadFileMaxMin\bin\Debug\ReadFileMaxMin.pdb
+C:\Users\a_kuanyshuly\Desktop\pp2lab\ReadFileMaxMin\ReadFileMaxMin\obj\Debug\ReadFileMaxMin.csprojResolveAssemblyReference.cache
+C:\Users\a_kuanyshuly\Desktop\pp2lab\ReadFileMaxMin\ReadFileMaxMin\obj\Debug\ReadFileMaxMin.csproj.CoreCompileInputs.cache
+C:\Users\a_kuanyshuly\Desktop\pp2lab\ReadFileMaxMin\ReadFileMaxMin\obj\Debug\ReadFileMaxMin.exe
+C:\Users\a_kuanyshuly\Desktop\pp2lab\ReadFileMaxMin\ReadFileMaxMin\obj\Debug\ReadFileMaxMin.pdb
